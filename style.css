@@ -24,7 +24,6 @@
       padding: 0px 10px 0px 10px;
     }
     div{
-      max-width: 500px;
       padding: 20px;
       margin: 0 auto;
     }
@@ -45,3 +44,19 @@
   .col-sm-4{
     background-color:green
   }
+.col-sm-10{
+  background-color:blue;
+}  
+.col-sm-2{
+  background-color:purple;
+}  
+  .col-sm-3{
+  background-color:pink;
+}  
+  .col-sm-9{
+  background-color:yellow;
+}  
+  
+  
+  
+  
