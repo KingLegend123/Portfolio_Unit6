@@ -37,4 +37,11 @@
         padding: 5px;
         display: block;
       }
-    }
+    
+}
+.col-sm-6{
+  background-color: red;
+  }
+  .col-sm-4{
+    background-color:green
+  }
